@@ -27,11 +27,6 @@ Este app é ideal para testes rápidos de aplicativos, experimentação de novas
 - **Evitar acúmulo de aplicativos**: Instale apenas os apps necessários por um curto período e não ocupe espaço no dispositivo.
 - **Testar funcionalidades**: Experimente novos recursos de aplicativos sem precisar deixar o app instalado permanentemente.
 
-## Instalação
-
-1. **Google Play**: Baixe diretamente da [Play Store](https://play.google.com/store/apps/details?id=com.dynamic.apk).
-2. **APK**: Também é possível baixar o arquivo APK diretamente de fontes confiáveis e instalar manualmente.
-
 ## Contribuições
 
 Este é um projeto de código aberto e você é bem-vindo para contribuir! Para colaborar, siga os seguintes passos:
@@ -44,7 +39,7 @@ Este é um projeto de código aberto e você é bem-vindo para contribuir! Para 
 
 ## Licença
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a Licença BSD - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
