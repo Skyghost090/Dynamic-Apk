@@ -1,5 +1,3 @@
-Claro! Aqui está o README atualizado com o nome **Dynamic APK**:
-
 # Dynamic APK
 
 ## Descrição
