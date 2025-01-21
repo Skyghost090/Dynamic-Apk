@@ -5,47 +5,48 @@
 ![Stars](https://img.shields.io/github/stars/skyghost090/Dynamic-Apk)
 ![Licence](https://img.shields.io/github/license/skyghost090/Dynamic-Apk)
 ![Issues](https://img.shields.io/github/issues/skyghost090/Dynamic-Apk)
-## Descrição
 
-O **Dynamic APK** é um aplicativo inovador que permite aos usuários instalar outros aplicativos de forma temporária em seus dispositivos. Após o uso, o aplicativo será automaticamente desinstalado, mantendo o seu dispositivo limpo e sem resíduos de aplicativos não desejados.
+## Description
 
-Este app é ideal para testes rápidos de aplicativos, experimentação de novas funcionalidades ou para evitar o acúmulo de apps no dispositivo.
+**Dynamic APK** is an innovative app that allows users to install other apps temporarily on their devices. After use, the app will be automatically uninstalled, keeping your device clean and free from unwanted app leftovers.
 
-## Funcionalidades
+This app is ideal for quick app testing, experimenting with new features, or avoiding the accumulation of apps on the device.
 
-- **Instalação Temporária**: Instale aplicativos em seu dispositivo por um período determinado.
-- **Desinstalação Automática**: Após o tempo definido ou uso do aplicativo, o **Dynamic APK** remove automaticamente o aplicativo instalado.
-- **Sem Resíduos**: Não deixa dados ou arquivos desnecessários após a desinstalação.
-- **Compatibilidade**: Suporta instalação de aplicativos via Google Play ou arquivos APK externos.
+## Features
 
-## Como Funciona
+- **Temporary Installation**: Install apps on your device for a specified period.
+- **Automatic Uninstallation**: After the defined time or use of the app, **Dynamic APK** automatically removes the installed app.
+- **No Residue**: It does not leave unnecessary data or files after uninstallation.
+- **Compatibility**: Supports installation of apps from Google Play or external APK files.
 
-1. **Instalar o Dynamic APK**: Baixe o aplicativo na Play Store ou de outra fonte confiável.
-2. **Selecionar o Aplicativo**: Escolha o aplicativo que você deseja instalar temporariamente.
-3. **Definir o Período de Tempo**: Determine quanto tempo o aplicativo ficará instalado.
-4. **Usar o Aplicativo**: Utilize o aplicativo instalado normalmente, como uma instalação convencional.
-5. **Desinstalação Automática**: Após o tempo definido ou uso, o **Dynamic APK** desinstala o aplicativo automaticamente.
+## How It Works
 
-## Casos de Uso
+1. **Install Dynamic APK**: Download the app from the Play Store or from a trusted source.
+2. **Select the App**: Choose the app you wish to install temporarily.
+3. **Set the Time Period**: Decide how long the app will stay installed.
+4. **Use the App**: Use the installed app as you would with a regular installation.
+5. **Automatic Uninstallation**: After the set time or once the app is used, **Dynamic APK** will uninstall it automatically.
 
-- **Testar novos aplicativos**: Experimente apps sem compromisso ou sem necessidade de instalação permanente.
-- **Evitar acúmulo de aplicativos**: Instale apenas os apps necessários por um curto período e não ocupe espaço no dispositivo.
-- **Testar funcionalidades**: Experimente novos recursos de aplicativos sem precisar deixar o app instalado permanentemente.
+## Use Cases
 
-## Contribuições
+- **Test New Apps**: Try out apps without commitment or the need for a permanent installation.
+- **Avoid App Bloat**: Only install the apps you need for a short period, preventing unnecessary storage usage on your device.
+- **Test Features**: Experiment with new app features without needing to keep the app installed permanently.
 
-Este é um projeto de código aberto e você é bem-vindo para contribuir! Para colaborar, siga os seguintes passos:
+## Contributing
 
-1. Faça um fork deste repositório.
-2. Crie uma nova branch (`git checkout -b feature/nome-da-feature`).
-3. Faça commit das suas mudanças (`git commit -m 'Adicionando nova funcionalidade'`).
-4. Envie para o repositório remoto (`git push origin feature/nome-da-feature`).
-5. Abra um Pull Request.
+This is an open-source project, and contributions are welcome! To collaborate, follow these steps:
 
-## Licença
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature/branch-name`).
+3. Commit your changes (`git commit -m 'Adding new feature'`).
+4. Push to the remote repository (`git push origin feature/branch-name`).
+5. Open a Pull Request.
 
-Este projeto é licenciado sob a Licença BSD - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+## License
+
+This project is licensed under the BSD License - see the [LICENSE](LICENSE) file for more details.
 
 ---
 
-Com o **Dynamic APK**, você pode experimentar aplicativos sem se preocupar com o acúmulo de dados e espaço. Aproveite a instalação e desinstalação fácil e rápida de apps!
+With **Dynamic APK**, you can experiment with apps without worrying about accumulating data and space. Enjoy quick and easy installation and uninstallation of apps!
