@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dynamic Apk</string>
+    <string name="motivation_text">Dynamic Apk:\nVersion 1\nDeveloped by Skyghost090\n\nCreativity is the force for progress 🪄</string>
+    <string name="home_text">
+         Quick Installation: The app allows quick installation of multiple apps, saving time and effort.\n\nAutomated Uninstallation: It automates the uninstallation process after a set period, helping to keep your device organized and freeing up storage space.\n\nConvenient Testing: The app enables you to test apps without long-term storage commitment, offering more convenience for daily use.
+    </string>
+</resources>
