@@ -1,5 +1,10 @@
 # Dynamic APK
 
+![Contributors](https://img.shields.io/github/contributors/skyghost090/Dynamic-Apk?style=plastic)
+![Forks](https://img.shields.io/github/forks/skyghost090/Dynamic-Apk)
+![Stars](https://img.shields.io/github/stars/skyghost090/Dynamic-Apk)
+![Licence](https://img.shields.io/github/license/skyghost090/Dynamic-Apk)
+![Issues](https://img.shields.io/github/issues/skyghost090/Dynamic-Apk)
 ## Descrição
 
 O **Dynamic APK** é um aplicativo inovador que permite aos usuários instalar outros aplicativos de forma temporária em seus dispositivos. Após o uso, o aplicativo será automaticamente desinstalado, mantendo o seu dispositivo limpo e sem resíduos de aplicativos não desejados.
